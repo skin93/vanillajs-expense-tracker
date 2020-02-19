@@ -1,5 +1,5 @@
 # Expense Tracker
 
-Simple application to calculate expenses. App created in Vanilla.js and deployed to GitHub Pages.
+Application calculating the account balance and displaying transaction history.
 
 [DEMO](https://skin93.github.io/vanillajs-expense-tracker/)
